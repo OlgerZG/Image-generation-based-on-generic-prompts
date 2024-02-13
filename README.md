@@ -5,4 +5,4 @@ Dowload the .ipynb file and update it to Google Colab
 
 Please read the paper related job to understand this project.
 
-Paper link: -- Aviable soon --
+Paper link: https://ieeexplore.ieee.org/document/10371557
